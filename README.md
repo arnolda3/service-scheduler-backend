@@ -18,11 +18,12 @@ This project is a service scheduler system designed to manage customer service r
 
 ### Installation
 
-1. **Clone the repository**
-git clone https://github.com/arnolda3/service-scheduler-backend.git
+1. **Clone the repository**\
+git clone 
+https://github.com/arnolda3/service-scheduler-backend.git
 
 
-2. **Backend setup**
-Navigate to the backend project folder and install dependencies:
-cd service-scheduler-backend
+2. **Backend setup**\
+Navigate to the backend project folder and install dependencies:\
+cd service-scheduler-backend\
 mvn clean install
